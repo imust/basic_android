@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="t16">16sp</dimen> 
+    <dimen name="t18">18sp</dimen> 
+    <dimen name="t20">20sp</dimen> 
+    <dimen name="t25">25sp</dimen> 
+    <dimen name="t40">40sp</dimen> 
+    
+    <dimen name="s50">50dp</dimen> 
+    <dimen name="s100">100dp</dimen> 
+    <dimen name="s120">120dp</dimen> 
+    <dimen name="s150">150dp</dimen> 
+    <dimen name="s200">200dp</dimen> 
+    
+    <dimen name="p5">5dp</dimen> 
+    <dimen name="p10">10dp</dimen> 
+    <dimen name="p15">15dp</dimen> 
+    <dimen name="p20">20dp</dimen> 
+    <dimen name="p25">25dp</dimen> 
+    <dimen name="p30">30dp</dimen> 
+    <dimen name="p40">40dp</dimen> 
+    <dimen name="p50">50dp</dimen> 
+    
+    <dimen name="m5">5dp</dimen> 
+    <dimen name="m10">10dp</dimen> 
+    <dimen name="m15">15dp</dimen> 
+    <dimen name="m20">20dp</dimen> 
+    <dimen name="m25">25dp</dimen> 
+    <dimen name="m30">30dp</dimen> 
+    <dimen name="m40">40dp</dimen> 
+    <dimen name="m50">50dp</dimen> 
+    
+</resources> 
